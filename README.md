@@ -10,6 +10,7 @@ The system can detect and classify different sign language gestures from collect
 ## 📂 Project Structure
 
 ├── CollectedImages/ # Collected dataset images
+|
 ├── data/ # Raw & processed data
 ├── signLanguage/ # Main project package
 │ ├── components/ # Core modules
